@@ -1,0 +1,9 @@
+{
+  "custom/my-script-module": {
+    "format": "My Script: {}",
+    "exec": "~/.config/hyprpanel/scripts/my_script.sh",
+    "tooltip": true,
+    "interval": 10
+  }
+}
+
